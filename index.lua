@@ -64,7 +64,7 @@ local SERVER_HOP_INTERVAL = 60
 -- Replace with the raw link to wherever you host THIS file
 -- (e.g. a GitHub raw URL, same as your OpenESP example). This must
 -- be the exact loadstring(game:HttpGet(...)) target.
-local HOSTED_URL = "https://raw.githubusercontent.com/<you>/<repo>/<branch>/index.lua"
+local HOSTED_URL = "https://raw.githubusercontent.com/charlessir/Sellmons/refs/heads/main/index.lua"
 
 
 
